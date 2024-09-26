@@ -1,4 +1,5 @@
 nginx
 mysql:8.0.1
 redis
+java:8-alpine
 
