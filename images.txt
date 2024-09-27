@@ -1,2 +1,2 @@
-mysql:8.0.1
+rabbitmq:3-managemen
 
