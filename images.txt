@@ -1,2 +1,2 @@
-oracle_11g
+oracle_11g:latest
 
