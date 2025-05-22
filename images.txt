@@ -1,3 +1,2 @@
-kibana:7.12.1
-elasticsearch:7.12.1
+oracle_11g
 
