@@ -1,2 +1,1 @@
-oracle_11g:latest
-
+akaiot/oracle_11g
