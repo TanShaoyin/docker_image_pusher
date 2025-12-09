@@ -1,1 +1,3 @@
-akaiot/oracle_11g
+bitnami/zookeeper:3.8.0
+bitnami/kafka:3.6.2
+sheepkiller/kafka-manager:latest
