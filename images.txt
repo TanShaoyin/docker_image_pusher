@@ -1,3 +1,3 @@
-bitnami/zookeeper
+bitnami/zookeeper:latest
 bitnami/kafka:3.6.2
 sheepkiller/kafka-manager:latest
